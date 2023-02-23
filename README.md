@@ -15,7 +15,7 @@ All this data is provided by tmdb api.
 
 In this web you can find also:
 
-- Movive trends list
+- Movie trends list
 - Upcoming movie list
 - Movie list by categories
 
